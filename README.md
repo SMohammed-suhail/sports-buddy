@@ -1,6 +1,6 @@
 # sports-buddy
 Sports Buddy is a web app that helps users discover, join, and manage sports events nearby. Platform built with React, TypeScript, and Firebase., it enables user registration, event creation, and admin management of sports, cities, and areas. Features include secure login, logging, responsive UI, and Firebase hosting.
-![Sports Buddy](https://images.pexels.com/photos/3621104/pexels-photo-3621104.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+ 
 
 ## ✨ Features
 
